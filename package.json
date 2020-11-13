@@ -1,0 +1,32 @@
+{
+  "name": "eslint-dev-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b4dcod3r/eslint-dev-environment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b4dcod3r/eslint-dev-environment/issues"
+  },
+  "homepage": "https://github.com/b4dcod3r/eslint-dev-environment#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/parser": "^4.7.0",
+    "editorconfig": "^0.15.3",
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2"
+  },
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}
